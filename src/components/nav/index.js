@@ -7,7 +7,7 @@ class Nav extends React.Component{
         return(
             <Navigation>
                 <Ul>
-                    <Li><A href="">AAAA</A></Li>
+                    <Li><A href="">AAAAS</A></Li>
                     <Li><A href="">BBB</A></Li>
                 </Ul>
             </Navigation>
