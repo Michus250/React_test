@@ -7,10 +7,11 @@ import './index.css';
 
 import reportWebVitals from './reportWebVitals';
 
+const navList = ['O NAS','USŁUGI','CENNIK','KONTAKT'];
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Nav></Nav>
+    <Nav list={navList}></Nav>
       
   </React.StrictMode>
 );
