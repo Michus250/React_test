@@ -73,14 +73,4 @@ const Logo = styled.img `
     padding : 1ex;
 `;
 
-const Div = styled.div`
-    
-    display: flex;
-    width: 100%;
-    
-    justify-content: center;
-    align-items: center;
-    background-color: #989CA6;
-`
-
 export default Nav;
