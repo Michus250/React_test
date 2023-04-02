@@ -14,7 +14,8 @@ class Card extends React.Component{
 }
 
 const Div = styled.div`
-    display:block;
+    display:flex;
+    flex-direction: column;
     /* flex: 0 0 38%; */
     flex-basis: calc(33.33%);
     color: black;

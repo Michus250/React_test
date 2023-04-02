@@ -14,7 +14,7 @@ class CardContainer extends React.Component{
 }
 
 const Div =styled.div`
-    background-color: #F2F2F2;
+    background-color: #e6e4e4;
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;

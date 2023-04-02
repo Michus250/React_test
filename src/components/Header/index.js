@@ -20,6 +20,7 @@ const H1 =styled.h1`
     /* flex: 0 0 90%; */
     flex-basis:calc(90%);
     text-align: center;
+    background-color: #F2F2F2;
     
     box-shadow: 1px 1px 10px 1px  #B8BABF ;
 `;
